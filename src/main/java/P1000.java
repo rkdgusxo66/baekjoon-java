@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class P10000 {
+public class P1000 {
     public static int sum(int x, int y) {
         return x+y;
     }
