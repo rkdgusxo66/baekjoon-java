@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="backjoon" target="1.5" />
+      <module name="backjoon" target="6" />
     </bytecodeTargetLevel>
   </component>
 </project>
